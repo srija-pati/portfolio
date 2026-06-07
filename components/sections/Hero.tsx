@@ -74,14 +74,7 @@ export function Hero() {
             >
               Get in Touch
             </a>
-            <a
-              href="/resume.txt"
-              download="Srija_Pati_Resume.txt"
-              className="px-8 py-3 border border-primary text-primary rounded-lg font-semibold hover:bg-primary/10 transition-colors inline-flex items-center gap-2"
-            >
-              <Download className="w-5 h-5" />
-              Download Resume
-            </a>
+            
           </motion.div>
 
           {/* Social Links */}
