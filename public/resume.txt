@@ -1,0 +1,100 @@
+================================================================================
+                            SRIJA PATI
+                    Hanamkonda, Telangana
+================================================================================
+
+CONTACT INFORMATION
+Email: srijapati5@gmail.com
+Phone: +91-9381797548
+LinkedIn: linkedin.com/in/pati-srija-670611290
+GitHub: github.com/srija-pati
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+Detail-oriented Computer Science (AI & ML) undergraduate with hands-on experience 
+in full-stack web development, data analysis, and machine learning fundamentals. 
+Proficient in Python, JavaScript, PHP, and MySQL with a track record of building 
+multi-role web applications end-to-end. Seeking opportunities in software 
+engineering and data/AI roles to contribute meaningful technical solutions.
+
+================================================================================
+EDUCATION
+================================================================================
+
+B.Tech - Computer Science (Artificial Intelligence & Machine Learning)
+Sumathi Reddy Institute of Technology for Women, Telangana
+Duration: 2023 – 2027
+CGPA: 7.20 / 10
+Relevant Coursework: AI Fundamentals, Machine Learning, Data Structures & 
+Algorithms, DBMS, Web Development
+
+Intermediate (Class XII)
+Telangana State Board
+Score: 86%
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Languages: Python, JavaScript, PHP, HTML5, CSS3, MySQL
+Tools & Frameworks: Git, GitHub, VS Code, XAMPP, phpMyAdmin
+AI/ML: Supervised Learning, Data Preprocessing, Pandas, NumPy
+Methodologies: Agile/Scrum, RBAC, RESTful Design, Data Analysis
+
+================================================================================
+PROJECTS
+================================================================================
+
+College Task Management System (2023 – 2024)
+• Multi-role web application with role-based access control (RBAC) for 100+ users
+• Features: Task creation, assignment, progress tracking, dashboard analytics
+• Technologies: HTML, CSS, JavaScript, PHP, MySQL
+• Key Achievement: Zero unauthorized data access; 99%+ uptime
+
+College ID Card Generator (2025)
+• Automated printable ID card generation from database inputs
+• Eliminated manual creation process for 100+ student records
+• Near-zero error rate with batch processing capabilities
+• Admin interface for structured data entry and PDF-ready output
+
+================================================================================
+EXPERIENCE
+================================================================================
+
+Software Engineering Job Simulation - Forage (2025)
+• Completed comprehensive modules on software architecture and OOP design
+• Demonstrated proficiency in unit testing and security best practices
+• Applied Agile methodology in simulated team workflows
+
+Data Analytics Job Simulation - Forage (2025)
+• Performed forensic data analysis with high accuracy assessment
+• Developed pattern recognition and data evaluation skills at scale
+• Delivered insights from structured data analysis
+
+Technology Job Simulation - Forage (2025)
+• Delivered coding assignments emphasizing problem-solving and code quality
+• Worked under simulated industry conditions with quality standards
+
+================================================================================
+CORE STRENGTHS
+================================================================================
+
+• Analytical Thinking & Problem Solving
+• Attention to Detail with Minimal Error Rate
+• Fast Learner with Quick Adaptation to New Technologies
+• Excellent Team Collaboration & Communication
+• Detail-Oriented Approach to Project Execution
+• Data Analysis & Pattern Recognition
+
+================================================================================
+CERTIFICATIONS & ACHIEVEMENTS
+================================================================================
+
+• Forage Job Simulation Certificates: Software Engineering, Data Analytics, Technology
+• Strong foundation in database design and management
+• Demonstrated ability to deliver scalable solutions
+• Experience with multi-role system architecture and access control
+
+================================================================================
